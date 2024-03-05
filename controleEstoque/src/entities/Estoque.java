@@ -20,8 +20,10 @@ public class Estoque {
 	
 	public void imprimeLista() {
 		for(Produto a : list) {
-			System.out.println("Nome: " + a.getNome() + "\nQuantidade: " +  a.getQntEstoque() + "\nPreço: " +p a.getPreco());
+			System.out.println("Produto " + a.getID() + "\nNome: " + a.getNome() + "\nQuantidade: " +  a.getQntEstoque() + "\nData de validade: " + a.getDataVenc() + "\nPreço: " + a.getPreco());
+			System.out.println();
 		}
+		
 	}
 	
 }
