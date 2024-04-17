@@ -40,7 +40,7 @@ public class Programa {
 		catch(RuntimeException e) {
 			System.out.println("Unexpected error");
 		}
-		
+
 		sc.close();
 		
 	}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="ola/src/|Composicaoproject/src/|exerciciofixestoque/src/|fixaproduto/src/|FileJava/|estoque/src/|Projetos proprios/|javaFile/src/|MidiaSocial/src/|program/src/|exercicioherançapolimorfi/src/|sistemaBancario/src/|Herançapolimorfismo/src/|abstractprogram/src/|Atividade/src/|anagrama/src/|controleEstoque/src/|Teste/src/|formas/src/|Ola mundo/src/|TrianguloAreaPoo/src/|hotelaria/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="abstractprogram/src"/>
+	<classpathentry kind="src" path="anagrama/src"/>
+	<classpathentry kind="src" path="Atividade/src"/>
+	<classpathentry kind="src" path="Composicaoproject/src"/>
+	<classpathentry kind="src" path="controleEstoque/src"/>
+	<classpathentry kind="src" path="estoque/src"/>
+	<classpathentry kind="src" path="exerciciofixestoque/src"/>
+	<classpathentry kind="src" path="exercicioherançapolimorfi/src"/>
+	<classpathentry kind="src" path="FileJava"/>
+	<classpathentry kind="src" path="fixaproduto/src"/>
+	<classpathentry kind="src" path="formas/src"/>
+	<classpathentry kind="src" path="Herançapolimorfismo/src"/>
+	<classpathentry kind="src" path="hotelaria/src"/>
+	<classpathentry kind="src" path="javaFile/src"/>
+	<classpathentry kind="src" path="MidiaSocial/src"/>
+	<classpathentry kind="src" path="ola/src"/>
+	<classpathentry kind="src" path="Ola mundo/src"/>
+	<classpathentry kind="src" path="program/src"/>
+	<classpathentry kind="src" path="Projetos proprios"/>
+	<classpathentry kind="src" path="sistemaBancario/src"/>
+	<classpathentry kind="src" path="Teste/src"/>
+	<classpathentry kind="src" path="TrianguloAreaPoo/src"/>
+	<classpathentry kind="output" path="Atividade/bin"/>
+</classpath>
